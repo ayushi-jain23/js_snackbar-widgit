@@ -1,0 +1,12 @@
+#demo{
+    margin: 20% auto;
+    /*margin: 700px 0 705px 705px;*/
+    /*text-align: center;*/
+    background-color: black;
+    color: white;
+    /*height: 15px;*/
+    width: 173px;
+    display: flex;
+    /*display: table-row-group;*/
+    /*padding: 15px 35px;*/
+}
